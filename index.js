@@ -19,7 +19,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'mahasiswa',
-    password: '',
+    password: 'Taling496',
     port: 5432, // Port khusus database PostgreSQL
 })
 
